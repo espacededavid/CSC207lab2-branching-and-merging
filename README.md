@@ -2,7 +2,7 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
-Test addition.
+Test addition.vc Another change
 
 ## Resources and Acknowledgements
 
