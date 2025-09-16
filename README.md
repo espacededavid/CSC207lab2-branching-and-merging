@@ -4,6 +4,8 @@ The main topic of this first lab activity is branching and merging in git.
 
 Test addition.vc Another change
 
+I need yto stpot modifying this
+
 ## Resources and Acknowledgements
 
 - https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
